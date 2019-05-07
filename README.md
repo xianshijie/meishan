@@ -6,4 +6,4 @@ View Meishan local products, healthy food anytime, anywhere
 
 If you have any questions, please contact: se4chuhan@163.com
 
-![image] (https://github.com/xianshijie/meishan/blob/master/%E5%9B%BE%E7%89%87/%E7%94%BB%E6%9D%BF%201.png)
+![image](https://github.com/xianshijie/meishan/blob/master/%E5%9B%BE%E7%89%87/%E7%94%BB%E6%9D%BF%201.png)
