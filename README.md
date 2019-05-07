@@ -4,4 +4,4 @@ Meishan specialty products are customized e-commerce platforms for Meishan speci
 Quick and easy local product information
 View Meishan local products, healthy food anytime, anywhere
 
-If you have any questions, please contact: njklm262@sina.com
+If you have any questions, please contact: se4chuhan@163.com
